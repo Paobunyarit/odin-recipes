@@ -1,0 +1,1 @@
+This project is about food, and after completing it, you will learn what the Odin project teaches about HTML.
