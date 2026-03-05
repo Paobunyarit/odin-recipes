@@ -1,0 +1,36 @@
+body {
+    background-color: #f0cdcdad;
+}
+#main-header {
+        text-align: center;
+    color: brown;
+    border: 1px solid;
+    margin: 0.1em 7em;
+    padding: 0.4rem;
+    background: cornsilk;
+    box-sizing: border-box;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    /* border: 1px solid black; */
+    
+}
+
+
+li {
+    margin: 10px;
+}
+
+.bth a {
+  background-color: rgb(179 57 81);
+  color: white;
+  text-decoration: none;
+  padding: 1em 2em;
+}
+
+.bth a:hover {
+    background-color: rgb(66 28 40);
+  color: white;
+}
